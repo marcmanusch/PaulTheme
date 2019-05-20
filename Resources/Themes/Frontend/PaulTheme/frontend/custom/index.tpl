@@ -1,0 +1,1 @@
+{extends file="frontend/custom/index.tpl"}

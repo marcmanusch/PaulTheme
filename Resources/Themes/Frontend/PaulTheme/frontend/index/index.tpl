@@ -123,7 +123,7 @@
 
 {block name="frontend_index_footer"}
     {* Last seen products *}
-    {block name='frontend_index_left_last_articles'}
+    {block name='frontend_index_left_last_articles_footer'}
         {if $sLastArticlesShow && !$isEmotionLandingPage}
             {* Last seen products *}
             <div class="last-seen-products is--hidden" data-last-seen-products="true">

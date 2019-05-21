@@ -2,6 +2,7 @@
 
 
 {block name='frontend_detail_index_buy_container'}
+
     {* Product name *}
     {block name='frontend_detail_index_name'}
         <h1 class="product--title" itemprop="name">

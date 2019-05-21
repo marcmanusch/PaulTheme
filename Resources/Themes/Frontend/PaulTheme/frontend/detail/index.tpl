@@ -24,7 +24,6 @@
             {* Sidebar right *}
             {block name='frontend_index_content_right'}{/block}
 
-
         </div>
     </section>
 
